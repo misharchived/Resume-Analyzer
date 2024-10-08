@@ -52,7 +52,7 @@ streamlit run app.py
 ```
 <p>* If facing a problem with pyresparser config file, change the pyresparser folder with the folder provided in the virtual enviornment</p>
 
-<h2>🛠️ Installation using Docker:</h2>
+<h2> Installation using Docker:</h2>
 
 <p> To run the application</p>
 
@@ -60,7 +60,7 @@ streamlit run app.py
 docker-compose up -d
 ```
 
-<h2>💻 Built with</h2>
+<h2> Built with</h2>
 
 Technologies used in the project:
 
